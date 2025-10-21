@@ -1,5 +1,10 @@
 # Discord-Server-Leaver
 
+# Current release: V2
+# Release notes `Added auto token detection if your to lazy to get your token`
+
+
+
 This is a tool i created to help you with leaving servers!
 Put your discord token in tokens.txt
 To get your token on discord do these steps:

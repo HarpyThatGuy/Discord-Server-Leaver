@@ -10,3 +10,6 @@ Your gonna see a request pop up!
 4. Click on it
 5. Scroll down until you see authentication, theres your token
 Then start the program via start.bat!
+
+
+![Views](https://komarev.com/ghpvc/?username=HarpyThatGuy&repo=Discord-Server-Leaver&color=brightgreen&style=flat&label=Repo+Views)

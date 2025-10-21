@@ -12,4 +12,4 @@ Your gonna see a request pop up!
 Then start the program via start.bat!
 
 
-![Views](https://komarev.com/ghpvc/?username=HarpyThatGuy&repo=Discord-Server-Leaver&color=brightgreen&style=flat&label=Repo+Views)
+![Views](https://komarev.com/ghpvc/?repo=Discord-Server-Leaver&color=brightgreen&style=flat&label=Repo+Views)
